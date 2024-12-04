@@ -15,10 +15,10 @@ Python, Pandas, OpenWeather API, Requests Library
 ## Example: 
 ### Terminal Output: 
 - Output showcasing the raw json data from the weather api
-![Screen Shot 2024-12-03 at 10 11 52 PM](https://github.com/user-attachments/assets/36df14c7-3b37-4de6-bfd0-9270666e0ce3)
+- ![Screen Shot 2024-12-03 at 10 11 52 PM](https://github.com/user-attachments/assets/36df14c7-3b37-4de6-bfd0-9270666e0ce3)
 
 ### Final Output after ETL Process:
 - CSV file storing the structured, tabular weather data format for better readability. 
-![Screen Shot 2024-12-03 at 10 12 08 PM](https://github.com/user-attachments/assets/a43de900-1808-4886-8c2c-4802431e3634)
+- ![Screen Shot 2024-12-03 at 10 12 08 PM](https://github.com/user-attachments/assets/a43de900-1808-4886-8c2c-4802431e3634)
 
 
